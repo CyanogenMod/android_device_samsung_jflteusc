@@ -33,3 +33,7 @@ PRODUCT_DEVICE := jflteusc
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := SCH-R970
+
+# Stlport
+PRODUCT_PACKAGES += \
+    libstlport
